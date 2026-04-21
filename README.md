@@ -1,2 +1,15 @@
 # graphql-api-starter-w17
-GraphQL API boilerplate with Apollo Server and resolvers
+
+> Last updated: 2026-04-21
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
