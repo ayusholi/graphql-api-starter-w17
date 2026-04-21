@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-04-21T13:00:00.982Z
+Session: 2026-04-21T13:00:00.982Z
 
-## Progress
+## Summary
 
-- add pre-commit hooks for quality checks
+- move constants to dedicated config file
