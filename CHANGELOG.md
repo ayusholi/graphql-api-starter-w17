@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve edge case in input validation
-- Updated: 2026-05-19T21:15:38.621Z
+- add environment variable support
+- Build: 2026-05-19T21:15:38.621Z
