@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve race condition in async handler
-- Build: 2026-04-21T13:00:00.982Z
+- resolve edge case in input validation
+- Updated: 2026-05-19T21:15:38.621Z
