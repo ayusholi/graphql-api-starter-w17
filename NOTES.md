@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-04-21T13:00:00.982Z
+Last updated: 2026-05-19T21:15:38.621Z
 
-## Summary
+## Progress
 
-- move constants to dedicated config file
+- add unit tests for core functions
