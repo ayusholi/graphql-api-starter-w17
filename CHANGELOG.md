@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- generate API reference documentation
-- Build: 2026-05-20T13:00:01.474Z
+- add health check endpoint
+- Updated: 2026-05-21T13:00:01.129Z
