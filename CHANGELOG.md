@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- split large module into smaller ones
-- Build: 2026-05-23T13:00:00.853Z
+- improve code examples in docs
+- Updated: 2026-05-25T13:00:00.970Z
