@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement token-based authentication
-- Build: 2026-05-25T13:00:00.970Z
+- generate API reference documentation
+- Updated: 2026-05-26T13:00:01.275Z
