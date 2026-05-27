@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add utility functions for data processing
-- Build: 2026-05-26T13:00:01.275Z
+- extract helper functions to utils
+- Updated: 2026-05-27T13:00:02.144Z
