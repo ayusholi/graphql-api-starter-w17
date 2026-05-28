@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-05-28T13:00:01.166Z
+Session: 2026-05-28T13:00:01.166Z
 
-## Progress
+## Summary
 
-- extract helper functions to utils
+- add gitignore and project config files
