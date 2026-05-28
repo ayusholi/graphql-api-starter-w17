@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-05-27T13:00:02.144Z
+Last updated: 2026-05-28T13:00:01.166Z
 
-## Summary
+## Progress
 
-- implement error handling middleware
+- extract helper functions to utils
