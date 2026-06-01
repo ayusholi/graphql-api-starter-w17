@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-06-01T13:00:01.251Z
+Session: 2026-06-01T13:00:01.251Z
 
-## Progress
+## Summary
 
-- prevent XSS vulnerability in output
+- update README with usage examples
